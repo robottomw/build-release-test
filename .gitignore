@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Local build folders
+/build*
+
+# Local test output
+/Testing*
+
+# Local install folder
+/install
+
+# Package outputs
+*.tar.gz
